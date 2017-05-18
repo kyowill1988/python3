@@ -1,4 +1,5 @@
 #Hello world
+
 print('Hello world')
 
 #string
@@ -9,13 +10,13 @@ print(myString)
 import keyword
 keyword.kwlist
 
-#¸´ÊıÏà¼Ó
+#å¤æ•°ç›¸åŠ 
 t1= 1+2j
 t2= 2+3j
 print(t1+t2)
 
-#Í¬Ò»ĞĞÏÔÊ¾¶àÌõÓï¾ä ÓÃ£»
+#åŒä¸€è¡Œæ˜¾ç¤ºå¤šæ¡è¯­å¥ ç”¨ï¼›
 ss='abc';print(ss)
 
-#²»»»ĞĞ,Ä©Î²ĞèÒª¼ÓÉÏend=" "
+#ä¸æ¢è¡Œ,æœ«å°¾éœ€è¦åŠ ä¸Šend=" "
 ss='aaa';print(ss,end=" ");print(ss,end=" ")
