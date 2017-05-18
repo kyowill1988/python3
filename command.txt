@@ -1,1 +1,21 @@
+#hello world
 print('Hello world')
+
+#string
+myString='abc'
+print(myString)
+
+#keyword
+import keyword
+keyword.kwlist
+
+#复数相加
+t1= 1+2j
+t2= 2+3j
+print(t1+t2)
+
+#同一行显示多条语句 用；
+ss='abc';print(ss)
+
+#不换行,末尾需要加上end=" "
+ss='aaa';print(ss,end=" ");print(ss,end=" ")
